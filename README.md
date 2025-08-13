@@ -1,47 +1,34 @@
-BankGUI – Java Banking System (GUI)
+# BankGUI - Java Banking System
 
-BankGUI is a simple Java Graphical User Interface (GUI) application that simulates basic banking operations.
+## 📌 Project Overview
+The **BankGUI** project is a Java-based **Graphical User Interface (GUI)** application designed for a simple banking system.  
 It allows users to:
+- Create new bank accounts
+- Make deposits
+- Withdraw money
+- Transfer funds between accounts
 
-Create accounts
+The project was developed to gain practical experience in **Java GUI programming**.  
+It demonstrates handling of user interactions, event-driven programming, and logical operations in a financial application.
 
-Deposit and withdraw funds
+---
 
-Transfer money between accounts
+##  How to Run the Project
 
-Built using Java Swing, the project demonstrates event-driven programming, interface design, and transaction logic.
+### 1️⃣ Prerequisites
+- Install **Java JDK** (version 8 or later)
+- Set up Java in your system environment variables
 
-🚀 Features
+### 2️⃣ Steps to Compile and Run
+1. **Open a terminal** (Command Prompt or any shell).
+2. **Navigate to the directory** where the program is located:
+   ```bash
+   cd path/to/project
 
-Account creation
+3. **Compile the Java file:**
+    ```bash
+    javac BankGUI.java
 
-Deposit & withdrawal
-
-Fund transfer
-
-User-friendly interface
-
-Custom event handling
-
-📂 Project Structure
-
-BankGUI/
-├── BankGUI.java
-└── (Other files if applicable)
-
-⚙️ Run Instructions
-
-# Navigate to project directory
-cd path/to/BankGUI
-
-# Compile
-javac BankGUI.java
-
-# Run
-java BankGUI
-
-📋 Requirements
-
-Java JDK 8 or later installed
-
-Works on Windows, macOS, or Linux
+4. **Run the application:**
+    ```bash
+    java BankGUI
