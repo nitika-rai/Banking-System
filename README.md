@@ -20,10 +20,13 @@ It demonstrates handling of user interactions, event-driven programming, and log
 - Set up Java in your system environment variables
 
 ### 2️⃣ Steps to Compile and Run
-1. **Open a terminal** (Command Prompt or any shell).
-2. **Navigate to the directory** where the program is located:
+1. **Clone the Repository**
    ```bash
-   cd path/to/project
+   git clone https://github.com/nitika-rai/Banking-System.git
+
+2. **Navigate to the directory**:
+   ```bash
+   cd Banking-System
 
 3. **Compile the Java file:**
     ```bash
