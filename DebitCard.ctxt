@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DebitCard
+comment0.text=\n\ The\ following\ is\ DebitCard\ class\ which\ serves\ as\ a\ child\ class,\ also\ known\ as\ sub\ class\ or\ derived\ class.\n\ DebitCard\ inherits\ the\ properties\ of\ BankCard\ class.\n\ consists\ of\ attributes,\ constructor,\ accessor\ method,\ mutator\ method\ which\ is\ a\ special\ kind\ of\ method,\n\ a\ method\ to\ withdraw\ and\ also,\ a\ method\ to\ display\ the\ details\ of\ the\ debit\ card.\n\ @author\ (Nitika\ Rai)\n\ @version\ (5.1.0a)\n
+comment1.params=balanceAmount\ cardID\ bankAccount\ issuerBank\ clientName\ pinNumber
+comment1.target=DebitCard(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=The\ constructor\ accepts\ six\ parameters\:\ balanceAmount,\ cardID,\ bankAccount,issuerBank,\ clientName,\ pinNumber
+comment2.params=
+comment2.target=int\ getPinNumber()
+comment2.text=Creating\ Accessor\ method\ to\ each\ attribute
+comment3.params=
+comment3.target=int\ getWithdrawalAmount()
+comment4.params=
+comment4.target=java.lang.String\ getDateOfWithdrawal()
+comment5.params=
+comment5.target=boolean\ getHasWithdrawn()
+comment6.params=withdrawalAmount
+comment6.target=void\ setWithdrawalAmount(int)
+comment6.text=Creating\ mutator\ method\ for\ attribute\:\ withdrawalAmount
+comment7.params=withdrawalAmount\ dateOfWithdrawal\ pinNumber
+comment7.target=void\ withdraw(int,\ java.lang.String,\ int)
+comment7.text=Creating\ a\ method\ withdraw()\ which\ accepts\ four\ parameters\:\ withdrawalAmount,\ dateOfwithdrawal,\ pinNumber
+comment8.params=
+comment8.target=void\ display()
+comment8.text=Display\ method\ gives\ the\ suitable\ output
+numComments=9

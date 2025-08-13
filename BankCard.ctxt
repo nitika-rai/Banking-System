@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BankCard
+comment0.text=\n\ The\ following\ is\ BankCard\ class\ which\ serves\ as\ a\ parent\ class,\ also\ known\ as\ super\ class\ or\ base\ class.\n\ It\ consists\ of\ attributes,\ constructor\ which\ is\ a\ special\ kind\ of\ method,\n\ getter\ methods\ also\ known\ as\ accessor\ method,\ setter\ methods\ also\ known\ as\ mutator\ method\n\ and\ also,\ a\ method\ to\ display\ the\ details\ of\ the\ Bank\n\ @author\ (Nitika\ Rai)\n\ @version\ (5.1.0a)\n
+comment1.params=balanceAmount\ cardID\ bankAccount\ issuerBank
+comment1.target=BankCard(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=The\ constructor\ accepts\ four\ parameters\:\ balanceAmount,\ cardID,\ bankAccount,\ issuerBank
+comment2.params=
+comment2.target=int\ getCardID()
+comment2.text=Creating\ Accessor\ method\ to\ each\ attribute
+comment3.params=
+comment3.target=int\ getBalanceAmount()
+comment4.params=
+comment4.target=java.lang.String\ getBankAccount()
+comment5.params=
+comment5.target=java.lang.String\ getIssuerBank()
+comment6.params=
+comment6.target=java.lang.String\ getClientName()
+comment7.params=clientName
+comment7.target=void\ setClientName(java.lang.String)
+comment7.text=Creating\ setters\ method\ which\ accepts\ new\ parameters
+comment8.params=balanceAmount
+comment8.target=void\ setBalanceAmount(int)
+comment9.params=
+comment9.target=void\ display()
+comment9.text=Display\ method\ gives\ the\ suitable\ output
+numComments=10
