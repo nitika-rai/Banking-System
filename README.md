@@ -1,14 +1,10 @@
 # BankGUI - Java Banking System
 
 ## 📌 Project Overview
-The **BankGUI** project is a Java-based **Graphical User Interface (GUI)** application designed for a simple banking system.  
-It allows users to:
-- Create new bank accounts
-- Make deposits
-- Withdraw money
-- Transfer funds between accounts
+The **BankGUI** project is a Java-based **Graphical User Interface (GUI)** application designed for a simple banking system. In the
+BankGUI project, a graphical user interface (GUI) for a financial system was created. Users may use the app to establish new accounts, make deposits and withdrawals, and move money across accounts. A practical grasp of Java GUI programming ideas was the goal of the project.
 
-The project was developed to gain practical experience in **Java GUI programming**.  
+The project was developed to gain practical experience in **Java GUI programming**. 
 It demonstrates handling of user interactions, event-driven programming, and logical operations in a financial application.
 
 ---
